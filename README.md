@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=260&section=header&text=Hi,%20I'm%20Renuka%20Bhuvana%20C%20%F0%9F%91%8B&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%26%20SDET%20%C2%B7%20AI%2FPython%20Developer&descAlignY=58&descAlign=50&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=260&section=header&text=Hi,%20I'm%20Renuka%20Bhuvana%20C%20%F0%9F%91%8B&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20and%20SDET%20%C2%B7%20AI%2FPython%20Developer&descAlignY=58&descAlign=50&descSize=17" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=renu5422&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -100,21 +100,10 @@ Playwright/Pytest E2E (POM, bot-detection debugging) · Java/Selenium/TestNG (en
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renu5422&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renu5422&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renu5422&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renu5422&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="55%"/>
-</p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=renu5422&theme=darkhub&no-frame=true&margin-w=4&margin-h=4&row=1&column=6"/>
-</p>
 
 ---
 
