@@ -100,12 +100,12 @@ Playwright/Pytest E2E (POM, bot-detection debugging) · Java/Selenium/TestNG (en
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renu5422&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=renu5422&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=renu5422&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renu5422&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renu5422&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="55%"/>
 </p>
 
 ---
@@ -113,7 +113,7 @@ Playwright/Pytest E2E (POM, bot-detection debugging) · Java/Selenium/TestNG (en
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=renu5422&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=renu5422&theme=darkhub&no-frame=true&margin-w=4&margin-h=4&row=1&column=6"/>
 </p>
 
 ---
