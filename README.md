@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=renu5422&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <a href="https://github.com/renu5422">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Software+Engineer+%26+SDET;Recent+MCA+Graduate+2025+%C2%B7+Bengaluru;Full-stack+builder+%2B+the+tests+%26+CI+that+keep+it+reliable;Agentic+AI+on+deterministic+foundations+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%26+SDET;Recent+MCA+Graduate+2025+%C2%B7+Bengaluru;Full-stack+builder+%2B+the+tests+%26+CI+that+keep+it+reliable;Agentic+AI+on+deterministic+foundations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
